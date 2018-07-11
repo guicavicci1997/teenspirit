@@ -17,7 +17,7 @@ public InternalResourceViewResolver internalResourceViewResolver(){
     resolver.setPrefix("/WEB-INF/views/");
     resolver.setSuffix(".jsp");
     return resolver;
-}
+	}
 	
 
 }
